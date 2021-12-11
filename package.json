@@ -1,0 +1,19 @@
+{
+  "name": "generator-java-app",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "chf",
+  "license": "ISC",
+  "files": [
+    "app",
+    "router"
+  ],
+  "dependencies": {
+    "openssl-nodejs": "^1.0.5",
+    "yeoman-generator": "^5.4.2"
+  }
+}
